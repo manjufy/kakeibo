@@ -19,3 +19,8 @@ Money Pool: A money pool is a technique that people worldwide living in poverty 
   - Money goes out
   - Money supposed to come-in
   - Money supposed to go out
+  
+  
+### References: 
+
+https://codecanyon.net/item/finance-manager/24311912
