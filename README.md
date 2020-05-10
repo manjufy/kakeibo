@@ -26,3 +26,5 @@ Money Pool: A money pool is a technique that people worldwide living in poverty 
 https://codecanyon.net/item/finance-manager/24311912
 
 https://codecanyon.net/item/smart-money-manager-finance-tracker-android-app-with-admob/25669084
+
+https://bulletjournal.com/pages/learn
